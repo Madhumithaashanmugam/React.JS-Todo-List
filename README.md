@@ -45,8 +45,6 @@ Usage
 
 **Delete a Task:** Click the "Delete" button next to a task to remove it from the list.
 
-**Update a Task:** (If applicable) Modify an existing task's details through the UI.
-
 **Customization**
 
 Styling: Modify the CSS files to customize the look and feel of the application.
