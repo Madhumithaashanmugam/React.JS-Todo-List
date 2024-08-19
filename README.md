@@ -27,12 +27,12 @@ The To-Do List Application is a task management tool that allows users to effici
 ## How to Run the Application
 1. **Clone the Repository**: Clone this project to your local machine.
    ```bash
-   git clone https://github.com/your-username/todo-list-app.git
+   git clone https://github.com/Madhumithaashanmugam/React.JS-Todo-List.git
 
 
 **Install Dependencies:** Navigate to the project directory and install the required dependencies.
 
-cd todo-list-app
+cd todoapp
 
 npm install
 
