@@ -39,8 +39,10 @@ npm install
 Start the Application: Run the application on your local development server.
 
 npm start
+
 **View the Application:** Open your browser and go to http://localhost:3000 to view the To-Do List application.
 Usage
+
 **Add a Task:** Enter a task in the input field and click "Add" to include it in the list.
 
 **Delete a Task:** Click the "Delete" button next to a task to remove it from the list.
